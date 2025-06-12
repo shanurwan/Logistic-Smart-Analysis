@@ -35,7 +35,7 @@ Environmental Readings
 User Behavior Data
 
 ## 📂 Query Categories
-Easy-Level Queries:
+### Easy-Level Queries:
 
 Count of delayed shipments by traffic status
 
@@ -45,7 +45,7 @@ Top customers by total transaction amount
 
 Average inventory level per shipment
 
-Intermediate-Level Queries:
+### Intermediate-Level Queries:
 
 Delayed shipments segmented by reason (Weather, Mechanical Failure, etc.)
 
@@ -55,7 +55,7 @@ Correlation between high humidity and delivery delays
 
 Orders affected by long waiting times (e.g., >60 minutes)
 
-Advanced-Level Queries:
+### Advanced-Level Queries:
 
 Rolling average of delays over time per region
 
