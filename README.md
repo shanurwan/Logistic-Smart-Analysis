@@ -20,7 +20,7 @@ Database: MySQL
 
 Language: SQL
 
-Data Source: Smart logistics dataset (IoT + transactional data)
+Data Source: Smart logistics dataset (IoT + transactional data) from Kaggle
 
 Tables Analyzed:
 
