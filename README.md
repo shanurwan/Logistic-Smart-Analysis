@@ -24,15 +24,15 @@ Data Source: Smart logistics dataset (IoT + transactional data) from Kaggle
 
 Tables Analyzed:
 
-Asset Tracking
+- Asset Tracking
 
-Sales Transactions
+- Sales Transactions
 
-Delay Logs
+- Delay Logs
 
-Environmental Readings
+- Environmental Readings
 
-User Behavior Data
+- User Behavior Data
 
 ## 📂 Query Categories
 ### Easy-Level Queries:
