@@ -1,4 +1,6 @@
-/* Count of delayed shipments by traffic status */
+/* Easy Level Query */
+
+-- Count of delayed shipments by traffic status 
 
 SELECT 
   Traffic_Status,
@@ -8,4 +10,4 @@ FROM
 GROUP BY 
   Traffic_Status;
 
-/* Number of orders placed per month */
+-- Number of orders placed per month 
